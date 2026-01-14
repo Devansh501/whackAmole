@@ -8,6 +8,9 @@ A fast-paced Whack-a-Mole game built with Java Swing featuring real-time score t
   <img width="45%" alt="Game Start" src="https://github.com/user-attachments/assets/93c2ee3b-000a-41cf-ba96-7cd629193b70" />
   <img width="45%" alt="High Score Gameplay" src="https://github.com/user-attachments/assets/cf135d45-c6df-4b97-9736-c21a2179c7cf" />
 </p>
+<video src="https://github.com/user-attachments/assets/eb0e0dd1-27a7-47d3-bb2b-71f36d41a345" controls="controls" style="display: block; margin-left: auto; margin-right: auto;">
+</video>
+
 
 ## Features
 
